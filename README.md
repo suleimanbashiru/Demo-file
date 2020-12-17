@@ -1,2 +1,2 @@
 # Demo-file
- test-server
+This is the beginning of a test demo server for templates
